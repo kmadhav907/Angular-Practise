@@ -1,4 +1,19 @@
-# Angular 💩
+# Angular 💩 Project
+<a href="https://angular.io/">Angular Docs</a>
+
+## Built using RAWG Video Games DataBase RapidFastAPI 
+
+<a href="https://rapidapi.com/accujazz/api/rawg-video-games-database/details">Click here</a> For Docs
+
+<br />
+  <div> <img src="Photos/Sc-1 (2).jpg"/> </div>
+  <br />
+   <div> <img src="Photos/Sc-1 (1).jpg"/> </div>
+   <br />
+   <div> <img src="Photos/Sc-1 (3).jpg"/> </div>
+   
+   <br />
+   <br />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
