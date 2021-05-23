@@ -1,4 +1,5 @@
 export interface Game {
+  id: string;
   background_image: string;
   name: string;
   released: string;
@@ -13,18 +14,26 @@ export interface Game {
   screenshots: Array<Screenshots>;
   trailers: Array<Trailer>;
 }
+
 export interface APIResponse<T> {
   results: Array<T>;
 }
+
 interface Genre {
   name: string;
 }
+
 interface ParentPlatform {
-  platform: string;
+  platform: {
+    name: string;
+    slug: string;
+  };
 }
+
 interface Publishers {
   name: string;
 }
+
 interface Rating {
   id: number;
   count: number;
@@ -34,6 +43,7 @@ interface Rating {
 interface Screenshots {
   image: string;
 }
+
 interface Trailer {
   data: {
     max: string;
