@@ -1,7 +1,10 @@
 # Angular 💩 Project
+### <a href="https://kmadhav907.github.io/Angular-Practise/">Demo </a>
+<br/>
 <a href="https://angular.io/">Angular Docs</a>
 
 ## Built using RAWG Video Games DataBase RapidFastAPI 
+
 
 <a href="https://rapidapi.com/accujazz/api/rawg-video-games-database/details">Click here</a> For Docs
 
